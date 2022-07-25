@@ -1,4 +1,7 @@
+### Learning
+C++ / Python / JavaScript
 
+:running:
 
 <!--
 **PFrek/PFrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
