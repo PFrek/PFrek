@@ -9,11 +9,11 @@ Salut!
 
 ### Hobbies
 
-| :running: |
+:running: |
 :musical_note: |
 :boxing_glove: |
-:video-game: |
-:game_die: |
+:video_game: |
+:game_die:
 
 
 <!--
