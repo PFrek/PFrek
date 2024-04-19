@@ -1,21 +1,3 @@
-### Languages
-
-C++ / Python / JavaScript
-
-Olá!  
-Hello!  
-Salut!  
-こんにちは！
-
-### Hobbies
-
-:running: |
-:musical_note: |
-:boxing_glove: |
-:video_game: |
-:game_die:
-
-
 <!--
 **PFrek/PFrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
