@@ -12,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I like learning stuff.
+
+Currently working on web projects using Go and JS/TS.
+
+Python is cool too, I guess.
